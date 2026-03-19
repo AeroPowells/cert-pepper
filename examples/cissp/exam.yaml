@@ -1,0 +1,30 @@
+code: "CISSP"
+name: "Certified Information Systems Security Professional"
+vendor: "(ISC)²"
+passing_score: 700
+max_score: 1000
+domains:
+  - number: 1
+    name: "Security and Risk Management"
+    weight_pct: 15.0
+  - number: 2
+    name: "Asset Security"
+    weight_pct: 10.0
+  - number: 3
+    name: "Security Architecture and Engineering"
+    weight_pct: 13.0
+  - number: 4
+    name: "Communication and Network Security"
+    weight_pct: 13.0
+  - number: 5
+    name: "Identity and Access Management"
+    weight_pct: 13.0
+  - number: 6
+    name: "Security Assessment and Testing"
+    weight_pct: 12.0
+  - number: 7
+    name: "Security Operations"
+    weight_pct: 13.0
+  - number: 8
+    name: "Software Development Security"
+    weight_pct: 11.0
